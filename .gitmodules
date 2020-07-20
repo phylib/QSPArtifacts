@@ -1,0 +1,4 @@
+[submodule "Minecraft_Traces/mc_wanderer"]
+	path = Minecraft_Traces/mc_wanderer
+	url = https://gitlab.itec.aau.at/minecraft/mc_wanderer.git
+	branch = master
