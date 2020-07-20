@@ -3,7 +3,8 @@
 This repository contains software artifacts for the the paper:
 _Philipp Moll, Selina Isak, Hermann Hellwagner, Jeff Burke. A Quadtree-based Synchronization Protocol for Inter-Server Game State Synchronization. Submitted to Computer Networks, Elsevier._
 
-For more information about this work, or the paper, please contact [Philipp Moll](mailto:philipp.moll@itec.aau.at).
+For more information about this work, or the paper, please contact the corresponding
+author ([Philipp Moll](mailto:philipp.moll@itec.aau.at)).
 
 The repository is structured as follows:
 

@@ -2,3 +2,7 @@
 	path = Minecraft_Traces/mc_wanderer
 	url = https://gitlab.itec.aau.at/minecraft/mc_wanderer.git
 	branch = master
+[submodule "ZMQ_Client"]
+	path = ZMQ_Client
+	url = https://gitlab.itec.aau.at/minecraft/ZMQSyncPeer
+	branch = master
