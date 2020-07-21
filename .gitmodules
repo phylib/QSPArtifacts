@@ -6,3 +6,7 @@
 	path = ZMQ_Client
 	url = https://gitlab.itec.aau.at/minecraft/ZMQSyncPeer
 	branch = master
+[submodule "NDN_Clients"]
+	path = NDN_Clients
+	url = https://gitlab.itec.aau.at/philipp-moll/QuadTreeSyncEvaluation.git
+	branch = master
