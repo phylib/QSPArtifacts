@@ -12,3 +12,8 @@ The repository is structured as follows:
 - **ZMQ_Client**: Contains the Python ZMQ Client
 - **NDN_Clients**: Contains the NDN-based Clients implementing the QSP and SVS protocol
 - **MiniNDN**: Contains the MineNDN code used for experimentation
+
+To install all dependencies, checkout the MiniNDN repository checkout the
+`install.sh` script of the linked MiniNDN (forked) repository and execute
+`./install.sh -a`. Alternatively, follow the instructions given in the
+individual subrepositories.
