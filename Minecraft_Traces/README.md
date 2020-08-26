@@ -46,3 +46,9 @@ The execution of the emulated Minecraft clients results in changes in Minecrafts
 https://github.com/phylib/MinecraftNDN-RAFNET19/blob/master/gamestate-changes/change_statistics/AnalyzeChunkChanges.ipynb
 
 With the `jupyter notebook` file, chunk-change-traces for each of the above described scenarios can be generated.
+
+## Ready to use trace-files
+
+Instead of creating new traces, the original trace files used for the paper
+evaluation are ready to use and available in the MiniNDN-Fork. Please see
+the following folder: https://gitlab.itec.aau.at/minecraft/QuadTreeSyncEvaluation/tree/master/traceFiles
