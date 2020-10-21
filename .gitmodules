@@ -4,13 +4,13 @@
 	branch = master
 [submodule "ZMQ_Client"]
 	path = ZMQ_Client
-	url = https://gitlab.itec.aau.at/minecraft/ZMQSyncPeer
+	url = https://github.com/phylib/ZMQSyncPeer.git
 	branch = master
 [submodule "NDN_Clients"]
 	path = NDN_Clients
-	url = https://gitlab.itec.aau.at/philipp-moll/QuadTreeSyncEvaluation.git
+	url = https://github.com/phylib/QSPClients.git
 	branch = master
 [submodule "MiniNDN"]
 	path = MiniNDN
-	url = https://gitlab.itec.aau.at/minecraft/QuadTreeSyncEvaluation.git
+	url = https://github.com/phylib/QSPMiniNDN.git
 	branch = master
